@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Civet cat","category":"Goldenrod"},
+{"id":2,"name":"Long-tailed skua","category":"Indigo"},
+{"id":3,"name":"Common melba finch","category":"Aquamarine"},
+{"id":4,"name":"Red-winged blackbird","category":"Violet"},
+{"id":5,"name":"Southern screamer","category":"Pink"},
+{"id":6,"name":"Cat, cape wild","category":"Indigo"},
+{"id":7,"name":"Deer, roe","category":"Pink"},
+{"id":8,"name":"Ostrich","category":"Violet"},
+{"id":9,"name":"Magpie, australian","category":"Red"},
+{"id":10,"name":"Dragon, netted rock","category":"Purple"},
+{"id":11,"name":"Eagle owl (unidentified)","category":"Fuscia"},
+{"id":12,"name":"Dog, black-tailed prairie","category":"Aquamarine"},
+{"id":13,"name":"Buttermilk snake","category":"Yellow"},
+{"id":14,"name":"Common nighthawk","category":"Crimson"},
+{"id":15,"name":"Onager","category":"Crimson"},
+{"id":16,"name":"Dove, ring","category":"Green"},
+{"id":17,"name":"Crake, african black","category":"Khaki"},
+{"id":18,"name":"Greater flamingo","category":"Crimson"},
+{"id":19,"name":"Gray heron","category":"Pink"},
+{"id":20,"name":"Spotted wood sandpiper","category":"Red"}
+]
+}
